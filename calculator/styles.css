@@ -1,0 +1,17 @@
+body {
+    background-color: #ffffff;
+}
+
+
+.card {
+    background-color: rgb(203, 206, 201);
+    border-radius: 15px;
+
+}
+.card-header{
+    background-color: rgb(139, 139, 139);
+}
+
+.btn {
+    font-size: 1.5em;
+}
